@@ -1,0 +1,374 @@
+*{
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    
+  }
+  
+  a:visited {
+    color: white;
+    background-color: transparent;
+    
+  }
+  
+  a:hover {
+    color: white;
+    background-color: transparent;
+    
+  }
+  
+  a:active {
+    color: lightsteelblue;
+    background-color: transparent;
+    
+  }
+  .dropdownLinks{
+    color: black;
+  }
+.font1{
+    font-family: 'Scheherazade', serif;
+}
+.font2{
+    font-family: 'Inter', sans-serif;
+}
+.mainBlue{
+    background-color: #001a61;
+}
+.mainBlueFaded{
+    background-color: #001a61; opacity: 90%;
+}
+.tintedWhite{
+    background-color: #F6F9FF;
+}
+.secondColourBackground{
+    background-color: #DEEFF8;
+}
+.secondColour{
+    color: #DEEFF8;
+}
+.fcWhite{
+    color: white;
+}
+.scMainBlue{
+    color: #0e2972;
+}
+.navTitle{
+    margin-left:74px;
+}
+.containerNavTitle{
+    
+    padding-left: 30px;
+    padding-top: 10px;
+    height: 100px;
+}
+.containerNavLinks{
+    float: right;
+
+}
+.navLinkone{
+    margin-top: 20px;
+}
+.navLinktwo{
+    margin-left:49px;
+    margin-top: 20px;
+}
+.navLinkthree{
+    margin-left:49px;
+    margin-top: 20px;
+}
+.myIcon{
+    background-color: #DEEFF8;
+    color: #0E2972;
+    height: 16px;
+    margin-left: 49px;
+    margin-top:25px;
+    padding-top: 4px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.dropdownMenu{
+    background-color: #DEEFF8;
+    font-size:26px;
+    opacity: 90%;
+}
+.underline:hover {
+    text-decoration: underline white;
+  }
+  .heroImage{
+    background-image: url("../images/navImage.jpg");
+    height: 580px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.festivalSpotlightTitle{
+    height: 76px;
+    width: 368px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 27px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+    margin-left: 15px;
+}
+.leftside{
+    margin-left: 24px;
+    padding-left: 15px;
+}
+.fib{
+    height:247px;
+    width:466px;
+    border-style: solid;
+    border-color: #0e2972;
+}
+.fibText{
+    font-size: 36px;
+    padding-left: 16.5px;
+    color: #0e2972;
+}
+.fibSubText{
+    font-size: 24px;
+    margin-top: 24px;
+    padding-left: 16.5px;
+    color: #0e2972;
+}
+.waitingList{
+    height:265px;
+    width:466px;
+    margin-top:18px;
+    border-style: solid;
+    border-color: #0e2972;
+}
+.benniLogo{
+    padding-left: 28px;
+    padding-top: 28px;
+    
+}
+.commingSoon{
+    margin-top: 59px;
+    margin-left:105px;
+    margin-bottom: 0px;
+    font-size:24px;
+    color: #0e2972;
+    height: 35px;
+    width: 164px;
+    background-color: white;
+    border-style: solid;
+    border-color: #0e2972;
+    
+
+}
+.datetbd{
+    margin-left:-90px;
+    margin-top:10px;
+    height:35px;
+    width:256px;
+    font-size:24px;
+    border-style: solid;
+    border-color: #0e2972;
+}
+.joinList{
+    background-color:#DEEFF8;
+    width:406px;
+    height:63px;
+    border-style: solid;
+    border-color: #0e2972;
+    border-style: solid;
+    color: #0e2972;
+    font-size:40px;
+    padding-left:67px;
+    margin-left:30px;
+    margin-top:24px;
+}
+.rightside{
+    margin-left: 24px;
+    margin-bottom:70px;
+}
+.spotlightImage{
+    width:100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.exploreArtistsTitle{
+    height: 76px;
+    width: 760px;
+    background-color: #0e2972;
+    color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 8.5px;
+    margin-top: 70px;
+    margin-left:44px;
+    margin-bottom: 70px;
+}
+.artistCard{
+    margin-left:89px;
+}
+.artistCardTwo{
+    margin-left: 387px;
+}
+.artistCardThree{
+    margin-top: 52px;
+    margin-left:89px;
+}
+.artistCardFour{
+    margin-top: 52px;
+    margin-left: 387px;
+    margin-bottom:52px;
+}
+.festivalListTitle{
+    height: 76px;
+    width: 808px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 18px;
+    margin-top: 52px;
+    margin-left:15px;
+    margin-bottom: 52px;
+}
+
+.tableWH{
+    width:758px;
+    margin-left:39px;
+    margin-bottom: 36px;
+}
+
+
+
+hr {
+    width: 565px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border: 0;
+    border-top: 2px solid rgba(14, 41, 114);
+  }
+  .myFooterPadding{
+      padding-left: 152px;
+  }
+  .myFooter{
+      height: 74px;
+      margin-left: 30px;
+      padding-top: 12px;
+  }
+  .socialMedia{
+      background-color: #DEEFF8;
+      height: 16px;
+      margin-left: 30px;
+      margin-top: 24px;
+      padding-top: 4px;
+      padding-bottom: 20px;
+      padding-left: 5px;
+      padding-right: 5px;
+  }
+
+.signUpTitle{
+    height: 76px;
+    width: 760px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 20px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+}
+  .signUpForm{
+      height:708px;
+      width:466px;
+      margin-bottom: 52px;
+      margin-left:15px;
+      background-color:white;
+      border-style: solid;
+      border-color: #0E2972;
+  }
+  .signUpFormWidth{
+      width: 304px;
+      margin-top: 50px;
+      margin-left:81px;
+  }
+  .signUpFormWidthtwo{
+    width: 304px;
+    margin-left:81px;
+}
+.signUpFormWidththree{
+    width: 304px;
+    margin-left:81px;
+    margin-top: 18px;
+}
+
+.signInTitle{
+    height: 76px;
+    width: 280px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 10px;
+    margin-top: 52px;
+    margin-left:15px;
+    margin-bottom: 52px;
+}
+.signInForm{
+    margin-top: 52px;
+    margin-left:15px;
+    height:400px;
+      width:466px;
+      margin-bottom: 52px;
+      background-color:white;
+      border-style: solid;
+      border-color: #0E2972;
+}
+
+.signInFormWidth{
+    width: 304px;
+    margin-left:81px;
+    margin-top: 34px;
+}
+.tableExampleTitle{
+    height: 76px;
+    width: 410px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 12px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+}
+.tableWH{
+    margin-left: 15px;
+}
+.cardExampleTitle{
+    height: 76px;
+    width: 400px;
+    color: #0e2972;
+    background-color: #DEEFF8;
+    border-style: solid;
+    border-color: #0E2972;
+    font-size: 58px;
+    padding-left: 15px;
+    margin-top: 52px;
+    margin-bottom: 52px;
+}
+.artistCardExample{
+    margin-bottom: 52px;
+    margin-left:15px;
+}
